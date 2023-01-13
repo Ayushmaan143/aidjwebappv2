@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    background-color: rgb(255, 213, 0)
+}
+
+.note{
+    font-size: 16px;
+    color: blue;
+}
+
+.div-speed{
+    float: left;
+}
+
+.div-image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 20px;
+}
+
+.div-volume{
+    float: right;
+}
+
+#volume{
+    font-size: 20px;
+}
+
+.button_play{
+    font-size: 20px;
+    width: 130px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 18px; 
+}
